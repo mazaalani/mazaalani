@@ -12,7 +12,7 @@
 
 <!-- Start Icons languages -->
 <img src="./img/vs.png" alt="vs" width="32" display='inline'/>
-<img src="./img/html.png" alt="vs" width="32"/>
+<img src="./img/html.png" alt="vs" width="32"  display='inline'/>
 <img src="./img/css.png" alt="vs" width="42"/>
 <img src="./img/sass.png" alt="vs" width="36"/>
 <img src="./img/js.png" alt="vs" width="36"/>
