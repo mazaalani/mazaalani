@@ -13,18 +13,16 @@
 <!-- Start Icons languages -->
 
 [<img src="./img/vs.png" width="32"/>](./img/vs.png)
-[<img src="./img/vs.png" width="32"/>](./img/vs.png)
-<img src="./img/vs.png" alt="vs" width="32" display='inline'/>
+[<img src="./img/html.png" width="32"/>](./img/html.png)
+[<img src="./img/css.png" width="42"/>](./img/css.png)
+[<img src="./img/sass.png" width="36"/>](./img/sass.png)
+[<img src="./img/js.png" width="36"/>](./img/js.png)
+[<img src="./img/node.png" width="36"/>](./img/node.png)
+[<img src="./img/sql.png" width="32"/>](./img/sql.png)
+[<img src="./img/mysql.png" width="36"/>](./img/mysql.png)
+[<img src="./img/wp.png" width="36"/>](./img/wp.png)
+[<img src="./img/gith.png" width="38"/>](./img/gith.png)
 
-<img src="./img/html.png" alt="html" width="32"  display='inline'/>
-<img src="./img/css.png" alt="css" width="42"/>
-<img src="./img/sass.png" alt="sass" width="36"/>
-<img src="./img/js.png" alt="js" width="36"/>
-<img src="./img/node.png" alt="node" width="36"/>
-<img src="./img/sql.png" alt="sql" width="32"/>
-<img src="./img/mysql.png" alt="mysql" width="32"/>
-<img src="./img/wp.png" alt="wp" width="32"/>
-<img src="./img/gith.png" alt="github" width="36"/>
 <!-- End Icons languages -->
 
 <br />
