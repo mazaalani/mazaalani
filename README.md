@@ -32,6 +32,6 @@
 
 - [Cards minigame](https://github.com/mazaalani/black-jack-no-AI) : Card game using ES6 class [Try it Yourself](https://mazaalani.github.io/black-jack-with-AI/)
 - [Wordpress Dynamic Forms Plugin](https://github.com/mazaalani/plugin_ICMS_WP) : Replaces a string chain with a dynamic contact form with basic validation.
-- [Account creation form](https://github.com/mazaalani/plugin_ICMS_WP) : Multipage account creation with validation.
+- [Account creation form](https://github.com/mazaalani/account-creation) : Multipage account creation with validation.
 
 [More...](https://github.com/mazaalani?tab=repositories)
