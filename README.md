@@ -35,3 +35,5 @@
 - [fetch students](https://github.com/mazaalani/Json_Fetch_Students) : fetch students information from online API.[Try it Yourself](https://mazaalani.github.io/Json_Fetch_Students/)
 
 [More...](https://github.com/mazaalani?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaalani&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
