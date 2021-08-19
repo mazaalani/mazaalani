@@ -18,6 +18,7 @@
 [<img src="./img/sass.png" width="36"/>](./img/sass.png)
 [<img src="./img/js.png" width="36"/>](./img/js.png)
 [<img src="./img/vue.png" width="36"/>](./img/vue.png)
+[<img src="./img/react.png" width="36"/>](./img/react.png)
 [<img src="./img/node.png" width="36"/>](./img/node.png)
 [<img src="./img/sql.png" width="32"/>](./img/sql.png)
 [<img src="./img/mysql.png" width="36"/>](./img/mysql.png)
