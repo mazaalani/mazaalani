@@ -3,8 +3,9 @@
 ## I'm a Husband, Father, Developer, and Gamer!!
 
 - I’m currently learning everything 🤣
-- I’m looking to collaborate with other content creators
 - Goals: Contribute more to Make the web world Amazing!
+
+In here you can find some work I have done as student and some personal projects, undoftunately I have no permission to share professional code done by me :/
 
 <br />
 
