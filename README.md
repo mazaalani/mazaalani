@@ -24,7 +24,7 @@ In here you can find some tiny student/personal projects projects, undoftunately
 [<img src="./img/sql.png" width="32"/>](./img/sql.png)
 [<img src="./img/mysql.png" width="36"/>](./img/mysql.png)
 [<img src="./img/wp.png" width="36"/>](./img/wp.png)
-[<img src="./img/gith.png" width="38"/>](./img/gith.png)
+[<img src="./img/gith.png" width="38"/>](./img/gith.png) ...
 
 <!-- End Icons languages -->
 
