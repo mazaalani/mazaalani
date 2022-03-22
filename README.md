@@ -5,7 +5,7 @@
 - I’m currently learning everything 🤣
 - Goals: Contribute more to Make the world Amazing!
 
-In here you can find some work I have done as student and some personal projects, undoftunately I have no permission to share professional code done by me :/
+In here you can find some tiny student/personal projects projects, undoftunately I have no permissions to share professional code :/
 
 <br />
 
