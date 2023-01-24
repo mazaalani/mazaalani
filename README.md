@@ -33,7 +33,8 @@ In here you can find some tiny student/personal projects projects, unfotunately 
 
 ### Interesting projects:
 
-- [Card minigame](https://github.com/mazaalani/black-jack-no-AI) : Card game using ES6 [Try it Yourself](https://mazaalani.github.io/black-jack-with-AI/)
+- [Card minigame](https://github.com/mazaalani/black-jack-no-AI) : Card game only JS [Try it Yourself](https://mazaalani.github.io/black-jack-with-AI/)
+- [Words Game](https://github.com/mazaalani/lingo-motus) : Words game only JS [Try it Yourself](https://mazaalani.github.io/lingo-motus/)
 - [fetch students](https://github.com/mazaalani/Json_Fetch_Students) : app component using API, double filters and add tags.[Try it Yourself](https://mazaalani.github.io/Json_Fetch_Students/)
 - [Website Example](https://github.com/mazaalani/Portfolio-mokup) : simple website example.[Try it Yourself](https://mazaalani.github.io/Portfolio-mokup/)
 - [mokup](https://github.com/mazaalani/Resto-model-1) : Restaurant mokup(3 active pages).[Try it Yourself](https://mazaalani.github.io/Resto-model-1)
